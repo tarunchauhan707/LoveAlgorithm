@@ -1,0 +1,21 @@
+body{
+  font-family: "Montserrat";
+    
+}
+
+#login{
+  background-color: #fff;
+}
+.logo{
+  size: 300%;
+}
+h5{
+  letter-spacing: 1px;
+}
+a.text-muted,p{
+  color: #393f81;
+}
+card{
+  border-radius: 1rem;
+}
+
